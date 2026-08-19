@@ -1,6 +1,6 @@
 name: Story
 description: Create a new issue
-labels: []
+labels: [enhancement]
 body:
   - type: textarea
     id: user-should-be-able-to
